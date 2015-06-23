@@ -1,3 +1,3 @@
 This repository has moved...
 
-New location is a https://github.com/openstack/automaton.
+The new location is at http://git.openstack.org/cgit/openstack/automaton/ or at https://github.com/openstack/automaton (an official mirror).
