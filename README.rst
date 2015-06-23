@@ -1,0 +1,3 @@
+This repository has moved...
+
+New location is a https://github.com/openstack/automaton.
